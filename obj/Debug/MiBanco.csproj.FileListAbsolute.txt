@@ -1,0 +1,37 @@
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\bin\Debug\MiBanco.exe.config
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\bin\Debug\MiBanco.exe
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\bin\Debug\MiBanco.pdb
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.Banco_PPL.resources
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.exe
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.pdb
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.FormEliminarCliente.resources
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.FormInsertarClientes.resources
+C:\Users\laura\OneDrive\Escritorio\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.FormModificarCliente.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\bin\Debug\MiBanco.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\bin\Debug\MiBanco.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\bin\Debug\MiBanco.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.Banco_PPL.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.FormEliminarCliente.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.FormInsertarClientes.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.FormModificarCliente.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\WindowsForms\Windows-Forms-XML-BANCO\MiBanco\obj\Debug\MiBanco.pdb
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\bin\Debug\MiBanco.exe.config
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\bin\Debug\MiBanco.exe
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\bin\Debug\MiBanco.pdb
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.csprojAssemblyReference.cache
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.Banco_PPL.resources
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.FormEliminarCliente.resources
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.FormInsertarClientes.resources
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.FormModificarCliente.resources
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.Properties.Resources.resources
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.csproj.GenerateResource.cache
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.exe
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.pdb
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.csproj.CoreCompileInputs.cache

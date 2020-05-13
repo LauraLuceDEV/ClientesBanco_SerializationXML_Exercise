@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<Banco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaClientes>
+    <Cliente>
+      <Dni>12549878L</Dni>
+      <Nombre>Laura</Nombre>
+      <Direccion>AVDA Olivo</Direccion>
+      <Edad>25</Edad>
+      <Telefono>956663322</Telefono>
+      <NumCuenta>123656325</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>75896545P</Dni>
+      <Nombre>Paul</Nombre>
+      <Direccion>CALLE Málaga</Direccion>
+      <Edad>65</Edad>
+      <Telefono>956332255</Telefono>
+      <NumCuenta>789987456</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>31568974P</Dni>
+      <Nombre>David Muñoz</Nombre>
+      <Direccion>Calle la Granja</Direccion>
+      <Edad>29</Edad>
+      <Telefono>607894521</Telefono>
+      <NumCuenta>268945621</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>75895123L</Dni>
+      <Nombre>Rafael</Nombre>
+      <Direccion>Calle Jondo</Direccion>
+      <Edad>45</Edad>
+      <Telefono>605448899</Telefono>
+      <NumCuenta>456987412</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>31325698M</Dni>
+      <Nombre>Manuel</Nombre>
+      <Direccion>AVDA la Granja</Direccion>
+      <Edad>36</Edad>
+      <Telefono>615233654</Telefono>
+      <NumCuenta>123698563</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>12459875J</Dni>
+      <Nombre>Juan Francisco</Nombre>
+      <Direccion>AVDA Averroes</Direccion>
+      <Edad>66</Edad>
+      <Telefono>956986563</Telefono>
+      <NumCuenta>123658963</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>31258963K</Dni>
+      <Nombre>Antonio José</Nombre>
+      <Direccion>AVDA Las Flores</Direccion>
+      <Edad>55</Edad>
+      <Telefono>602589632</Telefono>
+      <NumCuenta>123658963</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>31254698E</Dni>
+      <Nombre>Helena</Nombre>
+      <Direccion>AVDA Las Palmeras</Direccion>
+      <Edad>31</Edad>
+      <Telefono>602566321</Telefono>
+      <NumCuenta>321563332</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>31256987J</Dni>
+      <Nombre>Joaquin</Nombre>
+      <Direccion>Calle Albero</Direccion>
+      <Edad>29</Edad>
+      <Telefono>605989632</Telefono>
+      <NumCuenta>122366598</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>14785269J</Dni>
+      <Nombre>Jose Carlos</Nombre>
+      <Direccion>AVDA f</Direccion>
+      <Edad>48</Edad>
+      <Telefono>654855441</Telefono>
+      <NumCuenta>111444555</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>44778855U</Dni>
+      <Nombre>Hugo</Nombre>
+      <Direccion>CALLE R</Direccion>
+      <Edad>23</Edad>
+      <Telefono>954778866</Telefono>
+      <NumCuenta>456321887</NumCuenta>
+    </Cliente>
+    <Cliente>
+      <Dni>14548799R</Dni>
+      <Nombre>Calle R</Nombre>
+      <Direccion>AVDA Rua</Direccion>
+      <Edad>45</Edad>
+      <Telefono>945887744</Telefono>
+      <NumCuenta>458796542</NumCuenta>
+    </Cliente>
+  </ListaClientes>
+</Banco>
