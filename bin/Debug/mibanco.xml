@@ -105,5 +105,13 @@
       <Telefono>956887741</Telefono>
       <NumCuenta>123489566</NumCuenta>
     </Cliente>
+    <Cliente>
+      <Dni>31254879P</Dni>
+      <Nombre>Pablo Ramírez</Nombre>
+      <Direccion>AVDA Nagar 3D</Direccion>
+      <Edad>31</Edad>
+      <Telefono>956874144</Telefono>
+      <NumCuenta>312546598</NumCuenta>
+    </Cliente>
   </ListaClientes>
 </Banco>
