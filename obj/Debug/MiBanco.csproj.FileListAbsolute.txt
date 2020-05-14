@@ -35,3 +35,16 @@ D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficher
 D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.exe
 D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.pdb
 D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\Entrega_BANCOXML\MiBanco\obj\Debug\MiBanco.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\bin\Debug\MiBanco.exe.config
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\bin\Debug\MiBanco.exe
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\bin\Debug\MiBanco.pdb
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.Banco_PPL.resources
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.FormEliminarCliente.resources
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.FormInsertarClientes.resources
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.FormModificarCliente.resources
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.exe
+C:\Users\laura\OneDrive\Escritorio\git\ClientesBanco_SerializationXML_Exercise\obj\Debug\MiBanco.pdb

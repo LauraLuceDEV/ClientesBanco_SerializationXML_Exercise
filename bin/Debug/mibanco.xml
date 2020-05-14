@@ -97,5 +97,13 @@
       <Telefono>945887744</Telefono>
       <NumCuenta>458796542</NumCuenta>
     </Cliente>
+    <Cliente>
+      <Dni>11447799O</Dni>
+      <Nombre>Juan Ramos</Nombre>
+      <Direccion>AVDA Lluvia</Direccion>
+      <Edad>45</Edad>
+      <Telefono>956887741</Telefono>
+      <NumCuenta>123489566</NumCuenta>
+    </Cliente>
   </ListaClientes>
 </Banco>

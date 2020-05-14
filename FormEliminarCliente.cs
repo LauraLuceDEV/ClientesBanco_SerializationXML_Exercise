@@ -19,7 +19,7 @@ namespace MiBanco
         public FormEliminarCliente()
         {
             InitializeComponent();
-            this.miListaClientes = Program.crearListaClientes();
+            this.miListaClientes = Banco.crearListaClientes();
             cargarComboBox();
         }
 

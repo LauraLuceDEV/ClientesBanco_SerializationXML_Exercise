@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -51,6 +52,25 @@ namespace MiBanco
                 }
             }
             return null;
+        }
+
+        //Método estático del programa
+        //Crear instancia Banco/Lista Clientes por defecto a partir del fichero XML
+        public static Banco crearListaClientes()
+        {
+            Banco banco = new Banco();
+
+            XmlSerializer format = new XmlSerializer(banco.GetType());
+            if (File.Exists("mibanco.xml"))
+            {
+                FileStream f = new FileStream("mibanco.xml", FileMode.Open);
+                while (f.Position < f.Length)
+                {
+                    banco = (Banco)format.Deserialize(f);
+                }
+                f.Close();
+            }
+            return banco;
         }
     }
 }

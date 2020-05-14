@@ -21,7 +21,7 @@ namespace MiBanco
         public FormInsertarClientes()
         {
             InitializeComponent();
-            this.miListaClientes = Program.crearListaClientes();
+            this.miListaClientes = Banco.crearListaClientes();
         }
 
         //Botón - Guardar
